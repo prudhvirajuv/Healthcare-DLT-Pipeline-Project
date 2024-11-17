@@ -1,2 +1,2 @@
 # Healthcare-DLT-Pipeline-Project
-Healthcare DLT Pipeline: An end-to-end Data Engineering project using Databricks and Delta Live Tables (DLT). It reads data from DBFS, processes it incrementally with Delta Lake, and stores outputs in three layers: Bronze (raw data), Silver (validated data), and Gold (aggregated data), enabling efficient analysis of healthcare datasets.
+This project implements an end-to-end Data Engineering solution using **Databricks** and **Delta Live Tables (DLT)** for processing healthcare data. The main objective is to build a robust ETL pipeline that reads data from Databricks File System (DBFS), performs incremental processing using Delta Lake, and stores the output across three layers: **Bronze**, **Silver**, and **Gold**.
